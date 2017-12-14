@@ -1,0 +1,3 @@
+"0","write.csv(subset_dat, ""S:/Practice Model/Project_Data/worker_master_dat.csv"")"
+"0","write.foreign(subset_dat, ""S:/Practice Model/Project_Data/worker_dat.txt"", ""S:/Practice Model/Project_Data/worker_master_dat.sps"",   package = ""SPSS"")"
+"2","some variable names were abbreviated"
